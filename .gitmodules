@@ -1,0 +1,18 @@
+[submodule "lib/blynk-library"]
+	path = lib/blynk-library
+	url = https://github.com/blynkkk/blynk-library.git
+[submodule "lib/Adafruit_NeoPixel"]
+	path = lib/Adafruit_NeoPixel
+	url = https://github.com/adafruit/Adafruit_NeoPixel.git
+[submodule "lib/HC-SR04"]
+	path = lib/HC-SR04
+	url = git@github.com:papabricole/HC-SR04.git
+[submodule "lib/L9110"]
+	path = lib/L9110
+	url = git@github.com:papabricole/L9110.git
+[submodule "lib/NeoYPD"]
+	path = lib/NeoYPD
+	url = git@github.com:papabricole/NeoYPD.git
+[submodule "lib/WiFiManager"]
+	path = lib/WiFiManager
+	url = https://github.com/tzapu/WiFiManager.git
